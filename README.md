@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Cropland" width="180" />
+  <img src="assets/banner.png" alt="Cropland" />
 </p>
-
-<h1 align="center">Cropland</h1>
 
 <p align="center">
   <em>A multiplayer farming protocol on Solana. Stake land. Grow yield. Trade everything.</em>
