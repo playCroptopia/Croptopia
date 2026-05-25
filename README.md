@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://thewheat.world"><img alt="Site" src="https://img.shields.io/badge/site-thewheat.world-1a8917?style=for-the-badge"></a>
-  <a href="https://github.com/neilhtennek/wheat-world"><img alt="GitHub" src="https://img.shields.io/badge/source-neilhtennek%2Fwheat--world-181717?logo=github&style=for-the-badge"></a>
+  <a href="https://github.com/alexinbinary/WheatWorld"><img alt="GitHub" src="https://img.shields.io/badge/source-alexinbinary%2FWheatWorld-181717?logo=github&style=for-the-badge"></a>
   <a href="https://x.com/TheWheatWorld"><img alt="Twitter" src="https://img.shields.io/badge/follow-%40TheWheatWorld-000000?logo=x&style=for-the-badge"></a>
   <a href="https://medium.com/@WheatWorld"><img alt="Medium" src="https://img.shields.io/badge/medium-%40WheatWorld-12100E?logo=medium&style=for-the-badge"></a>
 </p>
